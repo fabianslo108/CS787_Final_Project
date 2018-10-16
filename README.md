@@ -1,2 +1,2 @@
-# CS787_Final_Project
+# CS787 Final Project
 Code files for CS787 Final Project
